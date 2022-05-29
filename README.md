@@ -1,7 +1,5 @@
 ### *Profile:*
-**KIT / M2 / Robotics**
-
-[webサイト](https://sekiyanosaka.github.io/)
+**KIT / M2 / Robotics** [web](https://sekiyanosaka.github.io/)
 
 ### *Research Topics:*
 
