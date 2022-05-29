@@ -1,7 +1,7 @@
-### *Profile:*
-**KIT / M2 / Robotics** [(web)](https://sekiyanosaka.github.io/)
+## *Profile:*
+**KIT / M2 / Robotics** [(Web)](https://sekiyanosaka.github.io/)
 
-### *Research Topics:*
+## *Research Topics:*
 
 **Bin-picking of complex shaped parts**
 
