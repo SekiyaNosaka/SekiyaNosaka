@@ -9,6 +9,6 @@ https://sekiyanosaka.github.io/
 **Object recognition and manipulator control**
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekiyaNosaka    &count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekiyaNosaka&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Sekiy    aNosaka&langs_count=10&hide=CMake&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SekiyaNosaka&langs_count=10&hide=CMake&layout=compact)
